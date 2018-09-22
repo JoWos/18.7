@@ -1,5 +1,5 @@
 var Contact = React.createClass({
-    propTyps: {
+    propTypes: {
         item: React.PropTypes.object.isRequired,
     },
 
