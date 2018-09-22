@@ -14,4 +14,4 @@ var Contacts = React.createClass({
 			</ul>
 		);
 	}
-});
+}); 
